@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCI Test Experiment", "Assembly-CSharp.csproj", "{FD36AF98-F7FD-61AA-0125-9CF6A143072F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCI Test Experiment", "Assembly-CSharp-Editor.csproj", "{185B0DDF-31F2-376E-E73B-5386285D99BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD36AF98-F7FD-61AA-0125-9CF6A143072F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD36AF98-F7FD-61AA-0125-9CF6A143072F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD36AF98-F7FD-61AA-0125-9CF6A143072F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD36AF98-F7FD-61AA-0125-9CF6A143072F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185B0DDF-31F2-376E-E73B-5386285D99BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185B0DDF-31F2-376E-E73B-5386285D99BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185B0DDF-31F2-376E-E73B-5386285D99BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185B0DDF-31F2-376E-E73B-5386285D99BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

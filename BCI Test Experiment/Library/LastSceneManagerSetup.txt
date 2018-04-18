@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/BCI_Stuff/BlinkTest.unity
+  isLoaded: 1
+  isActive: 1
